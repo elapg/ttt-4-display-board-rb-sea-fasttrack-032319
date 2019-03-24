@@ -4,7 +4,7 @@
 def display_board(name)
   puts "   |   |   "
   puts "-----------"
-  puts "   |   |   "
+  puts "   | x |   "
   puts "-----------"
   puts "   |   |   "
  end
